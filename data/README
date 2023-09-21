@@ -1,0 +1,7 @@
+SOURCE
+------
+— SemEval:
+https://deepai.org/dataset/semeval-2014-task-4-sub-task-2
+
+— Analogies:
+https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art) > http://download.tensorflow.org/data/questions-words.txt
